@@ -10,7 +10,7 @@
 <p>you can run http://13.126.89.183:5000/.</p>
 <p>Application API is running on aws server.This is live url:http://13.126.89.183:5000/.</p>
 
-<h1>#Add post API</h1>
+<h1>Add post API</h1>
  <p>API UTL : http://13.126.89.183:5000/savepost </p>
 <p> Method : PUT
  <p>Request data  : title:Upcoming event
@@ -28,7 +28,7 @@
         "created_date": "2017-11-18T17:47:18.682Z"
     }
 }</p>
- <h1>#post List  API</h1>
+ <h1>post List  API</h1>
  <p>API UTL : http://13.126.89.183:5000/postlist </p>
  <p>Method : GET</p>
 <p>Response data :</br>{
@@ -58,7 +58,7 @@
     ]
 }</p>
 
-<h1>#Delet post API</h1>
+<h1>Delet post API</h1>
  <p>API UTL : http://13.126.89.183:5000/savepost </p>
  <p>Method : DELETE</p>
  <p>Request data </br> : id:5a0876b7cd36f37d52dd1062 
@@ -68,7 +68,7 @@
     "message": "you have successfully delete"
 }</p>
 
-<h1>#Update post API</h1>
+<h1>Update post API</h1>
  <p>API UTL : http://13.126.89.183:5000/updatepost</p>
  <p>Method : PUT</p>
  <p>Request data  :</br> id:5a107178718cc5767340a46e
