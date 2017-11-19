@@ -5,7 +5,7 @@
 <p>example : 'url' : 'mongodb://127.0.0.1:27017/test'.</p>
 <p>Change port number in .env file.</p>
 <p>HOST_NAME= http://13.126.89.183:5000/. </p>
-<p>create database test then create collection contet(Define in model) in mongodb.</p>
+<p>create database test in mongodb. Save API data in posts collection</p>
 <p>I used post,put,get and delete method.</p>
 <p>you can run http://13.126.89.183:5000/.</p>
 <p>Application API is running on aws server.This is live url:http://13.126.89.183:5000/.</p>
