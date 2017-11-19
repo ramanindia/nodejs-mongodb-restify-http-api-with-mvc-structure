@@ -13,8 +13,8 @@
 <h1>Add post API</h1>
  <p>API URL : http://13.126.89.183:5000/savepost </p>
 <p> Method : PUT
- <p>Request data  : title:Upcoming event
-				 content:This is a good event 
+ <p>Request data  :<br/> title:Upcoming event<br/>
+				 content:This is a good event <br/>
 				 Body in form data</p>
 <p>Response data :</p>
 <br/>
@@ -61,7 +61,7 @@
 <h1>Delet post API</h1>
  <p>API URL : http://13.126.89.183:5000/savepost </p>
  <p>Method : DELETE</p>
- <p>Request data </br> : id:5a0876b7cd36f37d52dd1062 
+ <p>Request data </br> : id:5a0876b7cd36f37d52dd1062 <br/>
 				 Body in form data</p>
 <p>Response data :</br> {
     "type": true,
@@ -71,9 +71,9 @@
 <h1>Update post API</h1>
  <p>API URL : http://13.126.89.183:5000/updatepost</p>
  <p>Method : PUT</p>
- <p>Request data  :</br> id:5a107178718cc5767340a46e
-				content:update content here
-				title:update title 
+ <p>Request data  :</br> id:5a107178718cc5767340a46e<br/>
+				content:update content here<br/>
+				title:update title <br/>
 				 Body in form data</p>
 <p>Response data :</br> {
     "type": true,
