@@ -58,7 +58,7 @@
     ]
 }</p>
 
-<h1>Delet post API</h1>
+<h1>Delete post API</h1>
  <p>API URL : http://13.126.89.183:5000/savepost </p>
  <p>Method : DELETE</p>
  <p>Request data </br> : id:5a0876b7cd36f37d52dd1062 <br/>
