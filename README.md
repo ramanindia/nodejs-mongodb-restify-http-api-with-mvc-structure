@@ -11,7 +11,7 @@
 <p>Application API is running on aws server.This is live url:http://13.126.89.183:5000/.</p>
 
 <h1>Add post API</h1>
- <p>API UTL : http://13.126.89.183:5000/savepost </p>
+ <p>API URL : http://13.126.89.183:5000/savepost </p>
 <p> Method : PUT
  <p>Request data  : title:Upcoming event
 				 content:This is a good event 
@@ -29,7 +29,7 @@
     }
 }</p>
  <h1>post List  API</h1>
- <p>API UTL : http://13.126.89.183:5000/postlist </p>
+ <p>API URL : http://13.126.89.183:5000/postlist </p>
  <p>Method : GET</p>
 <p>Response data :</br>{
     "type": true,
@@ -59,7 +59,7 @@
 }</p>
 
 <h1>Delet post API</h1>
- <p>API UTL : http://13.126.89.183:5000/savepost </p>
+ <p>API URL : http://13.126.89.183:5000/savepost </p>
  <p>Method : DELETE</p>
  <p>Request data </br> : id:5a0876b7cd36f37d52dd1062 
 				 Body in form data</p>
@@ -69,7 +69,7 @@
 }</p>
 
 <h1>Update post API</h1>
- <p>API UTL : http://13.126.89.183:5000/updatepost</p>
+ <p>API URL : http://13.126.89.183:5000/updatepost</p>
  <p>Method : PUT</p>
  <p>Request data  :</br> id:5a107178718cc5767340a46e
 				content:update content here
