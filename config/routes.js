@@ -1,5 +1,4 @@
 'use strict';
-
 module.exports = function (server,controllers)
  {
 	 server.put('/savepost', controllers.post.savepost); 
